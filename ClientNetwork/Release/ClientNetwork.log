@@ -1,0 +1,4 @@
+﻿  Main.cpp
+LINK : warning LNK4075: ' /INCREMENTAL' ignoré à cause de la spécification '/OPT:ICF'
+  ClientNetwork.vcxproj -> C:\Users\nicolas\source\repos\cpp_spider\ClientNetwork\Release\ClientNetwork.exe
+  ClientNetwork.vcxproj -> C:\Users\nicolas\source\repos\cpp_spider\ClientNetwork\Release\ClientNetwork.pdb (Full PDB)
